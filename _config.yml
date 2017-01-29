@@ -14,9 +14,9 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
+  name:              Gaurav Mishra
   url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  email:             gamishra@cs.stonybrook.edu
 
 # Custom vars
 version:             1.0.0
